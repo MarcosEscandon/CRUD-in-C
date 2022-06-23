@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1655770450 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655770852 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\menues.h
+
+1655842660 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\consumos.h
+
+1655769178 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\clientes.h
+
+1655842660 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655835986 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655769088 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655826286 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\testeo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
+1655825724 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\testeo.h
+
+1655756050 source:c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655756452 c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\menues.h
+
+1655828260 c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\consumos.h
+
+1655754778 c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\clientes.h
+
+1655828260 source:c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655847870 source:c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
+1655844589 c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\testeo.h
+
+1655754688 source:c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655844649 source:c:\users\marquitos\desktop\mine\facu\utn\tec. u. en programacion\1.1.5 laboratorio de computacion i\tp final\tp_final_grupo_2\testeo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
